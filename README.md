@@ -9,9 +9,7 @@
 -->
 
 
-![snake animation](https://github.com/idrive106/idrive106/.idea/github-snake-dark.svg?color_snake=orange&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21)
-
-
+![snake animation](https://github.com/idrive106/idrive106/blob/main/.idea/github-snake-dark.svg?color_snake=orange&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21)
 
 
 
